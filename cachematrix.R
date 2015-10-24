@@ -1,4 +1,4 @@
-
+## Programming Assignment 2 Samuel Hansen
 
 ## This function creates an object which is a list of a matrix, a way to set this 
 ## matrix to a different value, a way to calculate and set the inverse and then
